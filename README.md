@@ -17,7 +17,7 @@ Can policy-uncertainty signals (US/China/TW EPU + US–China tension) improve se
 - Policy uncertainty signals show **heterogeneous spillovers** across industries, consistent with sector-specific sensitivity to global uncertainty.
 
 ## Repository Contents
-- `Z0207455-Research Project.pdf` — Full report (methods, experiments, results, discussion)
+- `Research Project.pdf` — Full report (methods, experiments, results, discussion)
 - `README.md` — Project overview
 
 ## How to View

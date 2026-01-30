@@ -27,4 +27,4 @@ GitHub typically renders PDFs directly in-browser. If the preview fails, click *
 If you reference this work, please cite the thesis report in this repository.
 
 ## Disclaimer
-This repository is for academic portfolio use. It is not financial advice.
+This repository is for academic portfolio use.
